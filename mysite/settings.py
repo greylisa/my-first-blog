@@ -25,7 +25,7 @@ SECRET_KEY = 'c)9cb1edf9kv^nm%3b=p)hl73l4!beqfkt$^^czs^hm^1!22ok'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['greylisa.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'greylisa.pythonanywhere.com']
 
 
 # Application definition
